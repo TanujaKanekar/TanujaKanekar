@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**TanujaKanekar/TanujaKanekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Predictive Analysis
 - 🌱 I’m currently learning new things and upgrading my skills
 - 👯 I’m looking to collaborate on Data science stuff
