@@ -1,4 +1,4 @@
-### Hi Buddies 👋
+### Hellooo Buddies 👋
 ## I am Tanuja
 
 - 🔭 I’m currently working on Predictive Analysis
