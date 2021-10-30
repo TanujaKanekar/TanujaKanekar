@@ -2,6 +2,9 @@
 ## I am Tanuja
 <h3 align="center">A passionate Data Science fresher from India😊</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanujakanekar&label=Profile%20views&color=0e75b6&style=flat" alt="tanujakanekar" /> </p>
+<img align="right" alt="coding"  width="400" src="https://dribbble.com/shots/14729055-A-Woman-Working-With-A-Dog-At-Her-Feet">
+
 - 🔭 I’m currently working on **Predictive Analysis**
 - 🌱 I’m currently learning new things and upgrading my skills
 - 👯 I’m looking forward to make new friends and to know about their works,contributions and their interests
@@ -10,9 +13,6 @@
 - 📫 How to reach me: well may be through my email: **tanujakanekar@gmail.com**
 - ⚡ Fun fact:I know it’s crazy, but I love to eat and my favorite comfort food is CHICKEN
 
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanujakanekar&label=Profile%20views&color=0e75b6&style=flat" alt="tanujakanekar" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
