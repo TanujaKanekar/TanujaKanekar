@@ -1,29 +1,23 @@
 ### Hellooo Buddies 👋
 ## I am Tanuja
+<h3 align="center">A passionate Data Science fresher from India😊</h3>
 
-- 🔭 I’m currently working on Predictive Analysis
+- 🔭 I’m currently working on **Predictive Analysis**
 - 🌱 I’m currently learning new things and upgrading my skills
-- 👯 I’m looking to collaborate on Data science stuff
+- 👯 I’m looking forward to make new friends and to know about their works,contributions and their interests
 - 🤔 I’m looking for something which will land me a job🙆
-- 💬 Ask me about the food😋 because I m in love with it😍
-- 📫 How to reach me: well may be through my email: tanujakanekar@gmail.com
+- 💬 Ask me about something I know!!well may be something about travelling,shopping,Eating 
+- 📫 How to reach me: well may be through my email: **tanujakanekar@gmail.com**
 - ⚡ Fun fact:I know it’s crazy, but I love to eat and my favorite comfort food is CHICKEN
 
-<h3 align="center">A passionate Data Science fresher from India</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanujakanekar&label=Profile%20views&color=0e75b6&style=flat" alt="tanujakanekar" /> </p>
 
-- 🔭 I’m currently working on **Predictive Analysis**
-
-- 📫 How to reach me **tanujakanekar@gmail.com**
-
-- ⚡ Fun fact **I think I am Crazy😜**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/tanujakanekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanujakanekar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tanuja-kanekar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanujakanekar" height="30" width="40" /></a>
 <a href="https://kaggle.com/tanujakanekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="tanujakanekar" height="30" width="40" /></a>
-<a href="https://instagram.com/tanuja_kanekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tanuja_kanekar" height="30" width="40" /></a>
 <a href="https://dribbble.com/tanuteena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="tanuteena" height="30" width="40" /></a>
 </p>
 
