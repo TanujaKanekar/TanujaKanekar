@@ -3,18 +3,18 @@
 <h3 align="center">A passionate Data Science fresher from India😊</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanujakanekar&label=Profile%20views&color=0e75b6&style=flat" alt="tanujakanekar" /> </p>
-<iframe src="https://giphy.com/embed/26xBwEevU6tBgktHy" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/animation-work-glas-2017-26xBwEevU6tBgktHy">via GIPHY</a></p>
+
 
 - 🔭 I’m currently working on **Predictive Analysis**
 - 🌱 I’m currently learning new things and upgrading my skills
-- 👯 I’m looking forward to make new friends and to know 
+- 👯 I’m looking forward to make new friends and to know<br>
       about their works,contributions and their interests
 - 🤔 I’m looking for something which will land me a job🙆
-- 💬 Ask me about something I know!!
+- 💬 Ask me about something I know!!<br>
       aaaaa hmmmm something about travelling,shopping,Eating 
-- 📫 How to reach me: well may be through my email: 
+- 📫 How to reach me: well may be through my email:<br>
       **tanujakanekar@gmail.com**
-- ⚡ Fun fact:I know it’s crazy, 
+- ⚡ Fun fact:I know it’s crazy,<br>
      but I love to eat and my favorite comfort food is CHICKEN
 
 
