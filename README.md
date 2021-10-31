@@ -19,7 +19,6 @@
 
 
 <h3 align="left">Connect with me:</h3>
-![GitHub Workflow Status](https://img.shields.io/github/workflow/status/TanujaKanekar/TanujaKanekar/hiiii?style=for-the-badge)
 <p align="left">
 <a href="https://linkedin.com/in/tanuja-kanekar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanujakanekar" height="30" width="40" /></a>
 <a href="https://kaggle.com/tanujakanekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="tanujakanekar" height="30" width="40" /></a>
