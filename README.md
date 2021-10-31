@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Data Science fresher from India😊</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanujakanekar&label=Profile%20views&color=0e75b6&style=flat" alt="tanujakanekar" /> </p>
-<img align="right" alt="coding" width="350" src="https://github.com/TanujaKanekar/TanujaKanekar/blob/main/Work%20at%20home.gif">
+<img align="right" alt="coding" width="380" src="https://github.com/TanujaKanekar/TanujaKanekar/blob/main/Work%20at%20home.gif">
 
 - 🔭 I’m currently working on **Predictive Analysis**
 - 🌱 I’m currently learning new things and upgrading my skills
