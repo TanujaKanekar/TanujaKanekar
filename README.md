@@ -1,11 +1,11 @@
 ### Hellooo Buddies 👋
 ## I am Tanuja
-<h3 align="center">A passionate Data Science fresher from India😊</h3>
+<h3 align="center">A passionate Data Scientist😊</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanujakanekar&label=Profile%20views&color=0e75b6&style=flat" alt="tanujakanekar" /> </p>
 <img align="right" alt="coding" width="400" src="https://github.com/TanujaKanekar/TanujaKanekar/blob/main/Work%20at%20home.gif">
 
-- 🔭 I’m currently working on **Predictive Analysis**
+- 🔭 I’m currently working on **Image Processing and Analysis**
 - 🌱 I’m currently learning new things and upgrading my skills
 - 👯 I’m looking forward to make new friends and to know<br>
       about their works,contributions and their interests
